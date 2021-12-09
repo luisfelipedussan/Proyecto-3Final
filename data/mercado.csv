@@ -1,0 +1,9 @@
+﻿Producto,Precio,Marca,CodigoDeBarras,VentaPorPeso,Vencimiento,UndDeMedida,CantidadUndsDeMedida,Categoria,Gondola,Refrigerado,Fresco,Congelado,URL
+Banano,500,Tupu,1,1,16/10/2021,Kg,NA,Fruta,1,0,1,0,data/banano.jpg
+Crema Colgate,4000,Colgate,2,0,16/10/2022,g,100,Higiene,2,0,0,0,data/mercado.jpg
+Atun,2000,A,3,0,16/10/2024,g,200,Enlatado,3,0,0,0,NA
+Lechuga,600,B,4,1,30/10/2021,Kg,NA,Verdura,1,0,1,0,NA
+Pan,200,C ,5,0,25/10/2021,g,20,Panaderia,1,0,1,0,NA
+Cepillo Dental,2500,Colgate,6,0,25/10/9999,NA,NA,Higiene,2,0,0,0,NA
+Detergente,8000,Fab,7,0,25/10/9999,mL,2000,Higiene,2,0,0,0,NA
+Pescado,4000,D,8,1,30/10/2021,Kg,NA,Carnes,4,1,0,0,NA

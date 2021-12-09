@@ -1,0 +1,9 @@
+﻿Lote,Producto,Vencimiento,UnidadesProducto,Precio,UndDeMedida,CantidadUndsDeMedida,CodigoDeBarras
+1,Banano,16/10/2021,100,500,Kg,1,1
+1,Crema Colgate,16/10/2022,20,4000,g,100,2
+1,Atun,16/10/2024,50,2000,g,200,3
+1,Lechuga,30/10/2021,30,600,Kg,30,4
+1,Pan,25/10/2021,500,200,g,1,5
+1,Cepillo Dental,25/10/9999,15,2500,NA,1,6
+1,Detergente,25/10/9999,20,8000,mL,2000,7
+1,Pescado,30/10/2021,30,4000,Kg,1,8
